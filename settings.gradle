@@ -1,0 +1,2 @@
+includeFlat 'feign-ribbon-consul-client'
+includeFlat 'ribbon-consul-client'
